@@ -5,6 +5,18 @@
       "day": "now",
       "reminder": false,
       "id": 1
+    },
+    {
+      "text": "Go home",
+      "day": "an hour",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "almighty push",
+      "day": "day of black sun",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
