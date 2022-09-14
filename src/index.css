@@ -91,7 +91,7 @@ body {
 
 .btn-block {
   display: block;
-  width: 100%;
+  width: 96%;
 }
 
 .task {
@@ -124,7 +124,7 @@ body {
 }
 
 .form-control input {
-  width: 100%;
+  width: 96%;
   height: 40px;
   margin: 5px;
   padding: 3px 7px;
