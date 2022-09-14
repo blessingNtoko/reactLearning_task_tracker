@@ -17,6 +17,12 @@
       "day": "day of black sun",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "added",
+      "day": "njvofeq",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
